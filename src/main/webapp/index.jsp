@@ -1,12 +1,10 @@
-<%@ page contentType="text/html;charset=UTF-8"%>
-<html>
+<!DOCTYPE html>
+<html lang="ru">
 <head>
     <meta charset="UTF-8" lang="en">
     <title>PSDT</title>
     <style>
         body {
-            background: #000000;
-            color: #ffffff;
             font-size: 2.5rem;
         }
 
